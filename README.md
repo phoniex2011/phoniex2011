@@ -1,2 +1,1 @@
-Web development noob
-Game development noob
+Js,python 
